@@ -1,0 +1,12 @@
+{
+  "dt": 0.01,
+  "end_time": 20.0,
+  "name": "1",
+  "omega": 1.0,
+  "parameters": {
+    "datapath": "datafiles/1.txt",
+    "jsonpath": "jsonfiles/1.exp"
+  },
+  "v_0": 1.0,
+  "x_0": 0.0
+}
